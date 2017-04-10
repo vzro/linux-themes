@@ -6,9 +6,9 @@
 <div style="float: clear;">
 	<h3> MaterialSnowWhiteBitch </h3>
 	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/MaterialSnowWhiteBitch_Clean.png" target="_blank">
-	<img src="screenshots/MaterialSnowWhiteBitch_Clean.png" width="300"></a>
+	<img src="screenshots/MaterialSnowWhiteBitch_Clean.png" width="400"></a>
 	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/MaterialSnowWhiteBitch_Dirty.png" target="_blank">
-	<img src="screenshots/MaterialSnowWhiteBitch_Dirty.png" width="300"></a>
+	<img src="screenshots/MaterialSnowWhiteBitch_Dirty.png" width="400"></a>
 </div>
 
 *	Window: Flat-Plat-light
@@ -22,9 +22,9 @@
 <div style="float: clear;">
 	<h3> chaoticPony </h3>
 	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/chaoticPony_Clean.png" target="_blank">
-	<img src="screenshots/chaoticPony_Clean.png" width="300"></a>
+	<img src="screenshots/chaoticPony_Clean.png" width="400"></a>
 	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/chaoticPony_Dirty.png" target="_blank">
-	<img src="screenshots/chaoticPony_Dirty.png" width="300"></a>
+	<img src="screenshots/chaoticPony_Dirty.png" width="400"></a>
 </div>
 
 *	Window: FlatStudioDark
@@ -38,9 +38,9 @@
 <div style="float: clear;">
 	<h3> PastelsRgr8 </h3>
 	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/PastelsRgr8_Clean.png" target="_blank">
-	<img src="screenshots/PastelsRgr8_Clean.png" width="300"></a>
+	<img src="screenshots/PastelsRgr8_Clean.png" width="400"></a>
 	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/PastelsRgr8_Dirty.png" target="_blank">
-	<img src="screenshots/PastelsRgr8_Dirty.png" width="300"></a>
+	<img src="screenshots/PastelsRgr8_Dirty.png" width="400"></a>
 </div>
 
 *	Window: Arc-Grey-Dark
@@ -54,9 +54,9 @@
 <div style="float: clear;">
 	<h3> FlatPastelFun </h3>
 	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/FlatPastelFun_Clean.png" target="_blank">
-	<img src="screenshots/FlatPastelFun_Clean.png" width="300"></a>
+	<img src="screenshots/FlatPastelFun_Clean.png" width="400"></a>
 	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/FlatPastelFun_Dirty.png" target="_blank">
-	<img src="screenshots/FlatPastelFun_Dirty.png" width="300"></a>
+	<img src="screenshots/FlatPastelFun_Dirty.png" width="400"></a>
 </div>
 
 *	Window: OSX Mint
@@ -66,7 +66,6 @@
 *	Shell: OSX Mint
 
 <br />
-***
 
 ### Links to themes and resources used:
 
