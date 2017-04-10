@@ -88,7 +88,7 @@ Enjoy!
 
 <div style="float: clear;">
 	<h3 id="wall"> Wallpapers </h3>
-	<ul style="display: block; list-style-type: none; padding: 0px; margin: 0px;">
+	<ol style="display: block; list-style-type: none; padding: 0px; margin: 0px;">
 		<li>
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/MaterialSnowWhiteBitch.jpg" target="_blank">
 			<p>MaterialSnowWhiteBitch</p>
@@ -109,7 +109,7 @@ Enjoy!
 			<p>FlatPastelFun</p>
 			<img src="wallpapers/FlatPastelFun.png" width="200" height="112"></a>
 		</li>
-	</ul>
+	</ol>
 </div>
 
 <br />
