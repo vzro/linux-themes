@@ -3,7 +3,7 @@
 
 These are a few of the themes I put together for my GNU/Linux setups.
 You can see a full resolution image of all the screenshots and/or wallpapers by clicking on the thumbnails. You can also go directly to a theme using the index.
-P.S All the theme files are also hosted in this repository, should anything happen with the original ones. They can be found in the "themes" folder.
+P.S All the theme files are also hosted in this repository, should anything happen to the original ones. They can be found in the "themes" folder.
 
 Enjoy!
 
@@ -18,6 +18,7 @@ Enjoy!
 * <a href="#PastelsRgr8" target="_blank">PastelsRgr8</a>
 * <a href="#FlatPastelFun" target="_blank">FlatPastelFun</a>
 * <a href="#wall" target="_blank">Wallpapers</a>
+* <a href="#extensions" target="_blank">Gnome Extensions</a>
 * <a href="#resources" target="_blank">Links and Resources</a>
 
 <br />
@@ -111,6 +112,17 @@ Enjoy!
 </div>
 
 <br />
+
+<h3 id="extensions">Gnome Extensions used</h3>
+
+* [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+* [Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/)
+* [Media player indicator](https://extensions.gnome.org/extension/55/media-player-indicator/)
+* [Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/)
+* [Places Status Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)
+* [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
+* [System Monitor](https://extensions.gnome.org/extension/1064/system-monitor/)
+* [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
 <h3 id="resources"> Links to themes and resources used</h3>
 
