@@ -11,11 +11,11 @@
 	<img src="screenshots/MaterialSnowWhiteBitch_Dirty.png" width="300"></a>
 </div>
 
->	Window: Flat-Plat-light
->	GTK+: Flat-Plat-Blue-light
->	Icons: Paper
->	Cursor: OpenZone_White_Slim
->	Shell: Numix-flatstudio-light
+*	Window: Flat-Plat-light
+*	GTK+: Flat-Plat-Blue-light
+*	Icons: Paper
+*	Cursor: OpenZone_White_Slim
+*	Shell: Numix-flatstudio-light
 
 <br />
 
@@ -27,11 +27,11 @@
 	<img src="screenshots/chaoticPony_Dirty.png" width="300"></a>
 </div>
 
->	Window: FlatStudioDark
->	GTK+: Flat-Plat-Blue-dark
->	Icons: Paper
->	Cursor: OpenZone_White_Slim
->	Shell: Numix-flatstudio-dark
+*	Window: FlatStudioDark
+*	GTK+: Flat-Plat-Blue-dark
+*	Icons: Paper
+*	Cursor: OpenZone_White_Slim
+*	Shell: Numix-flatstudio-dark
 
 <br />
 
@@ -43,11 +43,11 @@
 	<img src="screenshots/PastelsRgr8_Dirty.png" width="300"></a>
 </div>
 
->	Window: Arc-Grey-Dark
->	GTK+: Arc-Grey-Dark
->	Icons: Paper
->	Cursor: OpenZone_White_Slim
->	Shell: Arc-Grey-Dark
+*	Window: Arc-Grey-Dark
+*	GTK+: Arc-Grey-Dark
+*	Icons: Paper
+*	Cursor: OpenZone_White_Slim
+*	Shell: Arc-Grey-Dark
 
 <br />
 
@@ -59,11 +59,11 @@
 	<img src="screenshots/FlatPastelFun_Dirty.png" width="300"></a>
 </div>
 
->	Window: OSX Mint
->	GTK+: OSX Mint
->	Icons: Paper
->	Cursor: OpenZone_White
->	Shell: OSX Mint
+*	Window: OSX Mint
+*	GTK+: OSX Mint
+*	Icons: Paper
+*	Cursor: OpenZone_White
+*	Shell: OSX Mint
 
 <br />
 ***
