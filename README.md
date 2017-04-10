@@ -13,12 +13,12 @@ Enjoy!
 
 ## INDEX
 
-<a href="#MaterialSnowWhiteBitch" target="_blank">MaterialSnowWhiteBitch</a>
-<a href="#chaoticPony_Clean" target="_blank">chaoticPony</a>
-<a href="#PastelsRgr8" target="_blank">PastelsRgr8</a>
-<a href="#FlatPastelFun" target="_blank">FlatPastelFun</a>
-<a href="#wallpapers" target="_blank">Wallpapers</a>
-<a href="#resources" target="_blank">Links and Resources</a>
+* <a href="#MaterialSnowWhiteBitch" target="_blank">MaterialSnowWhiteBitch</a>
+* <a href="#chaoticPony" target="_blank">chaoticPony</a>
+* <a href="#PastelsRgr8" target="_blank">PastelsRgr8</a>
+* <a href="#FlatPastelFun" target="_blank">FlatPastelFun</a>
+* <a href="#wallpapers" target="_blank">Wallpapers</a>
+* <a href="#resources" target="_blank">Links and Resources</a>
 
 <br />
 
@@ -88,18 +88,28 @@ Enjoy!
 
 <div style="float: clear;">
 	<h3 id="wallpapers"> Wallpapers </h3>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/MaterialSnowWhiteBitch.jpg" target="_blank">
-    MaterialSnowWhiteBitch
-	<img src="wallpapers/MaterialSnowWhiteBitch.jpg" width="200"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/chaoticPony.jpg" target="_blank">
-    chaoticPony
-	<img src="wallpapers/chaoticPony.jpg" width="200"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/PastelsRgr8.png" target="_blank">
-    PastelsRgr8
-	<img src="wallpapers/PastelsRgr8.png" width="200"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/FlatPastelFun.png" target="_blank">
-    FlatPastelFun
-	<img src="wallpapers/FlatPastelFun.png" width="200" height="112"></a>
+	<ul style="display: inline; list-style-type: none; padding: 0px; margin: 0px;">
+		<li>
+			<p>MaterialSnowWhiteBitch</p>
+			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/MaterialSnowWhiteBitch.jpg" target="_blank">
+			<img src="wallpapers/MaterialSnowWhiteBitch.jpg" width="200"></a>
+	    </li>
+		<li>
+			<p>chaoticPony</p>
+			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/chaoticPony.jpg" target="_blank">
+			<img src="wallpapers/chaoticPony.jpg" width="200"></a>
+		</li>
+		<li>
+			<p>PastelsRgr8</p>
+			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/PastelsRgr8.png" target="_blank">
+			<img src="wallpapers/PastelsRgr8.png" width="200"></a>
+		</li>
+		<li>
+			<p>FlatPastelFun</p>
+			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/FlatPastelFun.png" target="_blank">
+			<img src="wallpapers/FlatPastelFun.png" width="200" height="112"></a>
+		</li>
+	</ul>
 </div>
 
 <br />
