@@ -88,28 +88,26 @@ Enjoy!
 
 <div style="float: clear;">
 	<h3 id="wall"> Wallpapers </h3>
-	<ol style="display: block; list-style-type: none; padding: 0px; margin: 0px;">
-		<li>
+		<span>
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/MaterialSnowWhiteBitch.jpg" target="_blank">
 			<p>MaterialSnowWhiteBitch</p>
 			<img src="wallpapers/MaterialSnowWhiteBitch.jpg" width="200"></a>
-	    </li>
-		<li>
+		</span>
+		<span>
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/chaoticPony.jpg" target="_blank">
 			<p>chaoticPony</p>
 			<img src="wallpapers/chaoticPony.jpg" width="200"></a>
-		</li>
-		<li>
+		</span>
+		<span>
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/PastelsRgr8.png" target="_blank">
 			<p>PastelsRgr8</p>
 			<img src="wallpapers/PastelsRgr8.png" width="200"></a>
-		</li>
-		<li>
+		</span>
+		<span>
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/FlatPastelFun.png" target="_blank">
 			<p>FlatPastelFun</p>
 			<img src="wallpapers/FlatPastelFun.png" width="200" height="112"></a>
-		</li>
-	</ol>
+		</span>
 </div>
 
 <br />
