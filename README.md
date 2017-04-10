@@ -5,13 +5,13 @@
 
 <div style="float: clear;">
 	<h3> MaterialSnowWhiteBitch </h3>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/MaterialSnowWhiteBitch_Clean.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/MaterialSnowWhiteBitch_Clean.png" target="_blank">
 	<img src="screenshots/MaterialSnowWhiteBitch_Clean.png" width="250"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/MaterialSnowWhiteBitch_Dirty.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/MaterialSnowWhiteBitch_Dirty.png" target="_blank">
 	<img src="screenshots/MaterialSnowWhiteBitch_Dirty.png" width="250"></a>
 </div>
 
-	Window: Flat-Plat-light
+>	Window: Flat-Plat-light
 	GTK+: Flat-Plat-Blue-light
 	Icons: Paper
 	Cursor: OpenZone_White_Slim
@@ -21,13 +21,13 @@
 
 <div style="float: clear;">
 	<h3> chaoticPony </h3>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/chaoticPony_Clean.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/chaoticPony_Clean.png" target="_blank">
 	<img src="screenshots/chaoticPony_Clean.png" width="250"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/chaoticPony_Dirty.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/chaoticPony_Dirty.png" target="_blank">
 	<img src="screenshots/chaoticPony_Dirty.png" width="250"></a>
 </div>
 
-	Window: FlatStudioDark
+>	Window: FlatStudioDark
 	GTK+: Flat-Plat-Blue-dark
 	Icons: Paper
 	Cursor: OpenZone_White_Slim
@@ -37,13 +37,13 @@
 
 <div style="float: clear;">
 	<h3> PastelsRgr8 </h3>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/PastelsRgr8_Clean.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/PastelsRgr8_Clean.png" target="_blank">
 	<img src="screenshots/PastelsRgr8_Clean.png" width="250"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/PastelsRgr8_Dirty.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/PastelsRgr8_Dirty.png" target="_blank">
 	<img src="screenshots/PastelsRgr8_Dirty.png" width="250"></a>
 </div>
 
-	Window: Arc-Grey-Dark
+>	Window: Arc-Grey-Dark
 	GTK+: Arc-Grey-Dark
 	Icons: Paper
 	Cursor: OpenZone_White_Slim
@@ -53,13 +53,13 @@
 
 <div style="float: clear;">
 	<h3> FlatPastelFun </h3>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/FlatPastelFun_Clean.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/FlatPastelFun_Clean.png" target="_blank">
 	<img src="screenshots/FlatPastelFun_Clean.png" width="250"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/FlatPastelFun_Dirty.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/FlatPastelFun_Dirty.png" target="_blank">
 	<img src="screenshots/FlatPastelFun_Dirty.png" width="250"></a>
 </div>
 
-	Window: OSX Mint
+>	Window: OSX Mint
 	GTK+: OSX Mint
 	Icons: Paper
 	Cursor: OpenZone_White
@@ -84,12 +84,12 @@
 
 <div style="float: clear;">
 	<h3> Wallpapers </h3>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/MaterialSnowWhiteBitch.jpg">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/MaterialSnowWhiteBitch.jpg" target="_blank">
 	<img src="wallpapers/MaterialSnowWhiteBitch.jpg" width="200"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/chaoticPony.jpg">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/chaoticPony.jpg" target="_blank">
 	<img src="wallpapers/chaoticPony.jpg" width="200"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/PastelsRgr8.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/PastelsRgr8.png" target="_blank">
 	<img src="wallpapers/PastelsRgr8.png" width="200"></a>
-	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/FlatPastelFun.png">
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/FlatPastelFun.png" target="_blank">
 	<img src="wallpapers/FlatPastelFun.png" width="200" height="112"></a>
 </div>
