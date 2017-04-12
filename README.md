@@ -124,12 +124,12 @@ Enjoy!
 		<span>
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/FlatPastelFun.png" target="_blank">
 			<p>FlatPastelFun</p>
-			<img src="wallpapers/FlatPastelFun.png" width="200" height="112"></a>
+			<img src="wallpapers/FlatPastelFun.png" width="200"></a>
 		</span>
 		<span>
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/GnomeInTheShell.png" target="_blank">
 			<p>GnomeInTheShell</p>
-			<img src="wallpapers/GnomeInTheShell.png" width="200" height="112"></a>
+			<img src="wallpapers/GnomeInTheShell.png" width="200"></a>
 		</span>
 </div>
 
