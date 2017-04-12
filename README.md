@@ -17,6 +17,7 @@ Enjoy!
 * <a href="#chaoticPony" target="_blank">chaoticPony</a>
 * <a href="#PastelsRgr8" target="_blank">PastelsRgr8</a>
 * <a href="#FlatPastelFun" target="_blank">FlatPastelFun</a>
+* <a href="#GnomeInTheShell" target="_blank">GnomeInTheShell</a>
 * <a href="#wall" target="_blank">Wallpapers</a>
 * <a href="#extensions" target="_blank">Gnome Extensions</a>
 * <a href="#resources" target="_blank">Links and Resources</a>
@@ -88,6 +89,22 @@ Enjoy!
 <br />
 
 <div style="float: clear;">
+	<h3 id="GnomeInTheShell"> GnomeInTheShell </h3>
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/GnomeInTheShell_Clean.png" target="_blank">
+	<img src="screenshots/GnomeInTheShell_Clean.png" width="400"></a>
+	<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/screenshots/GnomeInTheShell_Dirty.png" target="_blank">
+	<img src="screenshots/GnomeInTheShell_Dirty.png" width="400"></a>
+</div>
+
+*	Window: Ceti-2
+*	GTK+: Ceti-2
+*	Icons: Paper
+*	Cursor: OpenZone_White_Slim
+*	Shell: Ceti-2
+
+<br />
+
+<div style="float: clear;">
 	<h3 id="wall"> Wallpapers </h3>
 		<span>
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/MaterialSnowWhiteBitch.jpg" target="_blank">
@@ -108,6 +125,11 @@ Enjoy!
 			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/FlatPastelFun.png" target="_blank">
 			<p>FlatPastelFun</p>
 			<img src="wallpapers/FlatPastelFun.png" width="200" height="112"></a>
+		</span>
+		<span>
+			<a href="https://raw.githubusercontent.com/rzro/linux-themes/master/wallpapers/GnomeInTheShell.png" target="_blank">
+			<p>GnomeInTheShell</p>
+			<img src="wallpapers/GnomeInTheShell.png" width="200" height="112"></a>
 		</span>
 </div>
 
@@ -133,7 +155,10 @@ Enjoy!
 * [Theme: FlatStudio](https://www.gnome-look.org/content/show.php/FlatStudio?content=154296)
 * [Theme: Arc-Grey](https://github.com/eti0/arc-grey-theme)
 * [Theme: OSX-Mint-Dark](https://www.gnome-look.org/p/1170721/)
+* [Theme: Ceti-2](https://github.com/horst3180/ceti-2-theme)
 * [Style: Firefox Stylish Add-on ](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
 * [Style: Firefox Stylish White-Flat ](https://github.com/rzro/linux-themes/blob/master/themes/Style_Stylish-White-Flat_Firefox.css)
 * [Icons: Paper](https://snwh.org/paper)
 * [Cursors: OpenZone](https://www.gnome-look.org/content/show.php/OpenZone?content=111343)
+
+
