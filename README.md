@@ -38,6 +38,8 @@ Enjoy!
 *	Cursor: OpenZone_White_Slim
 *	Shell: Numix-flatstudio-light
 
+	##### [Check out what people are saying about this theme in /r/unixporn on Reddit!](https://www.reddit.com/r/unixporn/comments/64hlzg/gnome_material_design_materialsnowwhitebitch/)
+
 <br />
 
 <div style="float: clear;">
@@ -53,6 +55,8 @@ Enjoy!
 *	Icons: Paper
 *	Cursor: OpenZone_White_Slim
 *	Shell: Numix-flatstudio-dark
+
+	##### [Check out what people are saying about this theme in /r/unixporn on Reddit!](https://www.reddit.com/r/unixporn/comments/64hnme/gnome_dark_material_design_chaoticpony/)
 
 <br />
 
@@ -70,6 +74,8 @@ Enjoy!
 *	Cursor: OpenZone_White_Slim
 *	Shell: Arc-Grey-Dark
 
+	##### [Check out what people are saying about this theme in /r/unixporn on Reddit!](https://www.reddit.com/r/unixporn/comments/64hpds/gnome_dark_flat_pastel_pastelsrgr8/)
+
 <br />
 
 <div style="float: clear;">
@@ -86,6 +92,8 @@ Enjoy!
 *	Cursor: OpenZone_White
 *	Shell: OSX Mint
 
+	##### [Check out what people are saying about this theme in /r/unixporn on Reddit!](https://www.reddit.com/r/unixporn/comments/64hqug/gnome_dark_flat_colorful_flatpastelfun/)
+
 <br />
 
 <div style="float: clear;">
@@ -101,6 +109,8 @@ Enjoy!
 *	Icons: Paper
 *	Cursor: OpenZone_White_Slim
 *	Shell: Ceti-2
+
+	##### [Check out what people are saying about this theme in /r/unixporn on Reddit!](https://www.reddit.com/r/unixporn/comments/64x2ji/gnome_in_the_shell/)
 
 <br />
 
